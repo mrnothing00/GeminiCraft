@@ -22,6 +22,7 @@
 - [Prerequisites](#-prerequisites)
 - [Installation](#-installation)
 - [Usage](#-usage)
+- [Team](#-team)
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -129,3 +130,14 @@ Before you begin, ensure you have the following:
 
 ---
 
+## 👥 Team
+
+GeminiCraft was built as a hackathon team project by:
+
+- **Chan Boon Hong**
+- Akmal Hakimi Bin Abd Rashid
+- Muhamad 'Arif Fahmi Bin Amaludin
+- Khaizuran Amshar Bin Mohd Tarmizi
+- Mohamad Akid Danish Bin Mohd Azrulddin
+
+---
